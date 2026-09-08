@@ -108,7 +108,7 @@ Centrální stabilita trupu eliminuje rotace pánve, pomáhá symetrii došlapu 
 
 ### Poloha 3. měsíce na zádech (DNS podle prof. Koláře)
 
-<img src="fotky/DNS1.jpg" alt="Výchozí poloha" style="max-width: 800px; width: 100%; height: auto; display: block;" />
+<img src="attachments/DNS1.jpg" alt="Výchozí poloha" style="max-width: 800px; width: 100%; height: auto; display: block;" />
 
 - **Výchozí poloha:**
   - Leh na zádech, kyčle i kolena v úhlu 90°, bérce rovnoběžně se zemí, chodidla uvolněná.
@@ -119,7 +119,7 @@ Centrální stabilita trupu eliminuje rotace pánve, pomáhá symetrii došlapu 
 
 ### Přetáčení na bok z polohy 3. měsíce
 
-<img src="fotky/DNS2.jpg" alt="Přetáčení na bok" style="max-width: 800px; width: 100%; height: auto; display: block;" />
+<img src="attachments/DNS2.jpg" alt="Přetáčení na bok" style="max-width: 800px; width: 100%; height: auto; display: block;" />
 
 - **Provedení:**
   - Hlava a pohled očí zahajují pohyb, horní ruka vede rotaci trupu.
